@@ -1,0 +1,1 @@
+hive -f query.sql
